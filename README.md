@@ -24,7 +24,7 @@ Generates formatted ride receipt
 
 ---
 
-## 📊 Pricing Structure
+## Pricing Structure
 
 | Vehicle Type | Rate per km |
 |-------------|-------------|
